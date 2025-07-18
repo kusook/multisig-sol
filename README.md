@@ -1,7 +1,5 @@
 # Multisig Wallet - Secure Multi-Signature Ethereum Contract
-[!https://img.shields.io/badge/Solidity-%5E0.8.0-blue]
-[!https://img.shields.io/badge/Hardhat-Tests-green]
-[!https://img.shields.io/badge/License-MIT-yellow]
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 A secure multi-signature wallet implementation for Ethereum that requires multiple confirmations for transaction execution. This contract features robust security measures including reentrancy protection, transaction expiration, and strict validation rules.
 
